@@ -1,0 +1,10 @@
+{
+  "description": "Aprende Lengua de Señas Colombiana con lecciones visuales de conversación, canciones e historias, y controles accesibles para practicar a tu ritmo.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
